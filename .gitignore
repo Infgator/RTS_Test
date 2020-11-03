@@ -338,3 +338,10 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+/.collabignore
+/Temp
+/ProjectSettings
+/Library
+/Assets/Scenes
+/Assets/testTile.mat
+/Assets/testTile.png
